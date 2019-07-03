@@ -1,0 +1,43 @@
+const Tododata=[
+    {
+        id:1,
+        text:"This to do item may come from API instead of hard coded JSON file.",
+        completed:false
+    },
+    {
+        id:2,
+        text:"todo2",
+        completed:false
+    },
+    {
+        id:3,
+        text:"todo3",
+        completed:false
+    },
+    {
+        id:4,
+        text:"todo4",
+        completed:false
+    },
+    {
+        id:5,
+        text:"todo5",
+        completed:false
+    },
+    {
+        id:6,
+        text:"todo6",
+        completed:false
+    },
+    {
+        id:7,
+        text:"todo7",
+        completed:false
+    },
+    {
+        id:8,
+        text:"todo8",
+        completed:false
+    }
+]
+export default Tododata
